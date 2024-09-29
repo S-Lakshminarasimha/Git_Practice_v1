@@ -5,3 +5,5 @@ my age is 23
 I am from piduguralla
 
 My address is so an so....
+
+I completed graduation from so and so university.
